@@ -1,7 +1,8 @@
+import { Box } from "@mui/material";
 import "./App.css";
 
 function App() {
-  return <h1 style={{color: "green"}}>Green Book In Development</h1>
+  return <Box sx={{color: "green"}}>GREEN BOOK</Box>;
 }
 
 export default App;
